@@ -6,5 +6,7 @@ class Application
     resp.finish
   end
 
+  run MyServer.new
+
 end
 
